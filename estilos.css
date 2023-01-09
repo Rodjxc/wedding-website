@@ -1,0 +1,88 @@
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  background-color: rgb(212, 210, 209);
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+.first-container {
+  background-image: url("images/us2.jpg");
+  background-size: cover;
+  margin: 0;
+  color: white;
+}
+
+.mainpic {
+  padding: 3rem 5rem;
+  padding-bottom: 9rem;
+}
+
+.navbar-brand {
+  color: black;
+}
+
+.navbar-brand:hover {
+  color: rgb(112, 109, 112);
+}
+.navbar-item:hover {
+   color: rgb(112, 109, 112);
+}
+.btnrsvp {
+  text-align: center;
+}
+
+.white-text {
+    color: rgb(128, 95, 29);
+}
+.txt-in-img {
+  margin-bottom: 21rem;
+}
+.txt-main-img {
+  font-family: "Bad Script", cursive;
+  font-size: 10rem;
+  padding-top: 15rem;
+}
+
+/* RSVP Section */
+
+#rsvp {
+  height: 40rem;
+}
+
+.container-medium {
+  height: 30rem;
+}
+
+.img-beach {
+  background-image: url("images/img-beach-mallorca.jpg");
+  background-size: cover;
+  margin: 3.5rem;
+}
+
+.text-in-beach {
+  padding: 15rem;
+  padding-left: 20%;
+  padding-right: 20%;
+  text-align: center;
+  color: white;
+}
+
+.rsvp {
+  font-family: "Bad Script";
+}
+
+.btnrsvp {
+  padding-top: 2rem;
+}
+
+.footer {
+  padding: 5rem;
+}
